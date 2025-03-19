@@ -1,0 +1,6 @@
+name = "ham2mars"
+type = "static"
+
+account_id = "a9c10347de191b1c946e62f3363f2f46"
+zone_id = "4f2754a053a232251a003a74fe065219"  #
+bucket = "./public"
